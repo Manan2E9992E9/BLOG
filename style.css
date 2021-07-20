@@ -1,0 +1,88 @@
+.menu{
+    background-color: aqua;
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    z-index:9999999999999999999999999999;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color: #FFFFFF;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.links:hover{
+    color: blue;
+
+}
+body {
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+.endgame {
+    width: 200px;
+  
+}
+.JM {
+    width: 200px;
+  
+}
+.PC {
+    width: 200px;
+  
+}
+.Victoria {
+    width: 200px;
+  
+}
+.LK {
+    width: 200px;
+  
+}
+.Frozen {
+    width: 200px;
+  
+}
+.PUBG {
+    width: 200px;
+  
+}
+.UPLOCKDOWN {
+    width: 200px;
+  
+}
+.Gr {
+    width: 200px;
+  
+}
+.Dino {
+    width: 200px;
+  
+}
+.se {
+    width: 200px;
+  
+}
+.books{
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+ 
+    z-index:10;
+    cursor: pointer;
+}
+.Profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    align-items: left;
+}
